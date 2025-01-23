@@ -1,5 +1,7 @@
 # NGINX Docker Image (Non-Root)
 
+[![Build status](https://dev.azure.com/thiagoguaru/AlertHawk/_apis/build/status/nginx%20non-root)](https://dev.azure.com/thiagoguaru/AlertHawk/_build/latest?definitionId=-1)
+
 This repository provides a lightweight, non-root NGINX image built on the `nginx:alpine` base image. It serves content securely by running as a non-root user.
 
 ## Features
